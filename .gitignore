@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 .idea
+.venv312
+.venv39

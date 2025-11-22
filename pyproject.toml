@@ -11,6 +11,7 @@ dependencies = [
     "jupyter>=1.1.1",
     "jupyterlab-code-formatter>=3.0.2",
     "matplotlib>=3.10.6",
+    "numpy<2",
     "pandas>=2.3.2",
     "plotly>=6.3.0",
     "scikit-learn>=1.7.1",
