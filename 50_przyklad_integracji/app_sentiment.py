@@ -1,4 +1,5 @@
 # app_sentiment.py
+# pip install streamlit
 # uruchomienie: streamlit run
 
 import joblib
